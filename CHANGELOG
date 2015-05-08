@@ -1,0 +1,12 @@
+Face Detection System
+using Gabor Feature Extraction and Neural Networks
+
+% Version : 7.0
+% Date : 2015-05-03
+% Tested on MATLAB 2013a
+% Author  : Omid Sakhi
+% http://www.facedetectioncode.com
+
+RELEASE NOTES:
+
+In version 7.0, the implementation of a neural network is added to the program.
