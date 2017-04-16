@@ -8,6 +8,10 @@ clear all;
 close all;
 clc;
 
+if ~exist('./data')
+    mkdir('./data');
+end
+
 if ~exist('main.m')
     fprintf ('You must navigate to the folder which contains main.m\n');
     fprintf ('Use dir command to make sure you are in the correct folder.\n');
