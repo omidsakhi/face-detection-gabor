@@ -2,7 +2,6 @@
 % Date : 2015-05-03
 % Tested on MATLAB 2013a
 % Author  : Omid Sakhi
-% http://www.facedetectioncode.com
 
 function [J,grad] = netcost(nn_params,input_layer_size,hidden_layer_size,num_labels,X, y, lambda)
 
